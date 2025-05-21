@@ -1,3 +1,7 @@
+supported files:
+https://docs.github.com/ja/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file#supported-file-types
+
+
 ## README
 https://docs.github.com/ja/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
 
